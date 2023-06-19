@@ -1,5 +1,6 @@
 # SCROLLING-TEXT-ARDUINNO-PROJECT
 This is our CSE331 project which is Arduino Uno hardware based assembly language project
+
 INTRODUCTION:
 The project “Auto-scrolling message display” is an Arduino Uno based project which is designed to display a auto scrolling text on an LED display through the microcontroller built in Arduino Uno. This project is made for creating a simple but effective tool to display the text messages in public places such as shopping malls, airport, taxi meter etc many others.
 Hardware tools:
@@ -11,6 +12,8 @@ Software tools:
 1.	Arduino IDE
 2.	Proteus
 3.	Assembly language
+
+
 Description of Proteus Implementation:
 For this project 1st we have implemented the project in Proteus. There we have used the Arduino Uno and the LED display components. And in Arduino Uno we have used assembly language to give the directions/instructions what it will do/show if we connect the LED display to it. The assembly codes are written in Arduino IDE then it transfers to the Arduino to works that.
  After completing the Proteus implementations we have done the hardware implementations.
